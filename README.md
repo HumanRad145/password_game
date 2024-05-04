@@ -19,6 +19,10 @@ Rules: (11)
 The answer rule 3, rule 5, rule 7, rule 8:
 
 rule 3: red, yellow, blue
+
 rule 5: ruler
+
 rule 7: 1945
+
 rule 8: ict, ths, phy, bio
+
