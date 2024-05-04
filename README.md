@@ -17,6 +17,7 @@ Rules: (11)
 11. The length of your password must be a prime number
 
 The answer rule 3, rule 5, rule 7, rule 8:
+
 rule 3: red, yellow, blue
 rule 5: ruler
 rule 7: 1945
