@@ -16,6 +16,8 @@ Rules: (11)
 10. The number of lowercase letters in your pasword should be 2 times to the number of uppercase letters
 11. The length of your password must be a prime number
 
+    
+
 The answer rule 3, rule 5, rule 7, rule 8:
 
 rule 3: red, yellow, blue
