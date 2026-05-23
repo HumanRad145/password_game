@@ -1,7 +1,7 @@
-# password_game
+# Password Game
 Inspired by Password Game as a assignment for school
 
-Feel free to play with it: (and please tell me if there's anything i could change to imrpove the efficiency of the code)
+Feel free to play with it: (and please tell me if there's anything i could change to improve the efficiency of the code)
 
 Rules: (11)
 1. Your password must be at least 8 characters.
